@@ -21,7 +21,6 @@ elif(s[0]=='n' or s[0]=='N'):
                         Enter the base of the triangle : 7
                         Enter the height of the triangle : 14
                         Area : 49.0
-
                                         OR
                         Do you know the base and height of the triangle?
                         Yes or No? No
