@@ -17,5 +17,5 @@ print("Numbers divisible by",num,"are",result)
                     Enter the element of list : 14
                     Enter the element of list : 15
                     Enter the number for which divisibility is to be checked : 2
-                    Numbers divisible by 2 are [12, 14]
+                    Numbers divisible by 2 are [12, 14] 
 '''
