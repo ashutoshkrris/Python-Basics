@@ -15,5 +15,5 @@ else:
                                 Enter number greater than  1
                                         OR
                                 Enter the number : 13
-                                13 is a prime number.        
+                                13 is a prime number.         
 '''
