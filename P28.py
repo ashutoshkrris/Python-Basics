@@ -36,7 +36,7 @@ n = random.randint(1,20)
 
 guess = 6
 name = input("What is your name? : ")
-print("Hello",name,", Welcome to Guess The Number game.\nWe have got a secret number for you and you have to guess it for us.")
+print("Hello",name,", Welcome to Guess The Number game.\nWe have got a secret number for you and you have to guess it for us.\nYou will get only 5 chances.")
 while(True):
     guess -= 1
     num = int(input("Guess the number : "))
@@ -50,6 +50,7 @@ while(True):
                                         What is your name? : Ashutosh
                                         Hello Ashutosh , Welcome to Guess The Number game.
                                         We have got a secret number for you and you have to guess it for us.
+                                        You will get only 5 chances.
                                         Guess the number : 13
                                         Sorry,your number is greater than our secret number.
                                         Try Again!!
