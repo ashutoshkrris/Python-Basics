@@ -14,6 +14,7 @@ def gtn(x,y,z):
         z -= 1
         if z==1:
             print("Yaay!! Our secret number is just as you thought.\nYou guessed it right with",z,"guess left.")
+            sys.exit()
         else:
             print("Yaay!! Our secret number is just as you thought.\nYou guessed it right with",z,"guesses left.")
             sys.exit()
