@@ -10,4 +10,6 @@ class Solution(object):
            dict[target-nums[i]] = i
            
 o = Solution()
+list_nums = list(map(int,input().split(" ")))
+tar = int(input())
 print(o.twoSum([2,7,11,15],9))
