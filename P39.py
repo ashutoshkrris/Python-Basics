@@ -12,4 +12,4 @@ class Solution(object):
 o = Solution()
 list_nums = list(map(int,input().split(" ")))
 tar = int(input())
-print(o.twoSum([2,7,11,15],9))
+print(o.twoSum(list_nums,tar))
